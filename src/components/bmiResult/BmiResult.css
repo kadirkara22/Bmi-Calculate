@@ -1,0 +1,8 @@
+.showStatus {
+  width: 100%;
+  background-color: rgb(187, 175, 175);
+  font-size: 30px;
+  text-align: justify;
+  padding: 10px 30px;
+  text-indent: 40px;
+}

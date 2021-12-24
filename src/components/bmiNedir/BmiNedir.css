@@ -1,0 +1,16 @@
+.bmiNedir {
+    background-color: rgb(224, 215, 215);
+    padding:10px 50px;
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+.paraf{
+    text-align: justify;
+    text-indent: 40px;
+    font-size: 25px;
+   
+}
